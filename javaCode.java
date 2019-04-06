@@ -4,5 +4,5 @@ public javafile()
 {super();
 x = 32;}
 public void print()
-{system.out,println("javafile stupid");}
+{system.out,println("java");}
 }
